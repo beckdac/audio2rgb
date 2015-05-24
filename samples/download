@@ -1,0 +1,5 @@
+#!/bin/bash
+
+wget http://www.audiocheck.net/Audio/audiocheck.net_sweep20-20klog.mp3
+
+wget http://www.audiocheck.net/Audio/audiocheck.net_sweep20-20klin.mp3
